@@ -3,7 +3,7 @@
 <img style="float: left; padding-right: 50px;" src="IMG_3364 3.jpg" width="200" height="200">
 Ethan graduated from Carthage College with BA's in Physics and Mathematics. He was part of the Interdisciplinary Quantitative Biology program at CU Boulder pursuing a masters in Computer Science. His research interestes fall in complex biological systems, networks systems, and biostatistics. His research in the Vernerey group focused on discrete modeling of active networks and facillitated diffusion.
 
-Find more by looking at my [resume](https://github.com/ethan-hobbs/ethan-hobbs.github.io/blob/master/_includes/EH_Resume_Biostat(2).pdf) or [CV](https://github.com/ethan-hobbs/ethan-hobbs.github.io/blob/master/_includes/CV_EH.pdf). 
+Find more by looking at my [resume](https://github.com/ethan-hobbs/ethan-hobbs.github.io/blob/master/_includes/EH_Resume_Biostat(2).pdf) or [CV](https://github.com/ethan-hobbs/ethan-hobbs.github.io/blob/master/_includes/CV_EH(2).pdf). 
 
 ## Previous Research
 
